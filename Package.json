@@ -1,0 +1,22 @@
+{
+  "name": "mintlify-docs",
+  "version": "1.0.0",
+  "description": "Mintlify Documentation Project",
+  "main": "index.js",
+  "scripts": {
+    "build": "mintlify build", 
+    "start": "mintlify serve"
+  },
+  "dependencies": {
+    "mintlify": "^1.0.0",
+    "http-server": "^14.1.1"
+  },
+  "devDependencies": {
+    "mintlify-cli": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
