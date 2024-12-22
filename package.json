@@ -8,7 +8,7 @@
     "start": "mintlify serve"
   },
   "dependencies": {
-    "mintlify": "^1.0.0",
+    "mintlify": "^4.0.299",
     "http-server": "^14.1.1"
   },
   "devDependencies": {
